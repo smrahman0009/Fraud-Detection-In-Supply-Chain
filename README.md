@@ -1,4 +1,4 @@
-﻿# Fraud-Detection-In-Supply-Chain-
+﻿# Fraud Detection In Supply Chain
 Supply Chain is a network between company and its suppliers to produce and distribute final products to the buyer. Nowadays, many big companies are opting for supply chain. With the rise in business and technology, fraudulent activities have risen up too which eventually affects the business revenue. Detection of such fraud activities/transactions is crucial for any supply chain business. The main goal of this business problem is to identify and flag as many fraudulent orders as possible.
 
 ## Data Collection
