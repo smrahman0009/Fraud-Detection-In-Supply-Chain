@@ -5,4 +5,4 @@ Supply Chain is a network between company and its suppliers to produce and distr
 This is an e-commerce supply chain dataset provided by the company DataCo Global including data from 2015 to 2018. This dataset has 53 columns (features) in total. Out of which, 24 features are categorical and 29 are continuous features.
 
 ## References:
-https://data.mendeley.com/datasets/8gx2fvg2k6/5 Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V5, doi: 10.17632/8gx2fvg2k6.5
+https://data.mendeley.com/datasets/8gx2fvg2k6/5 
